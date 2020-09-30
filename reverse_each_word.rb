@@ -10,6 +10,8 @@ sentence1_reversed.join(" ")
 end
 
 def reverse_each_word(string) #using .collect
+
+
   
   
 end 
