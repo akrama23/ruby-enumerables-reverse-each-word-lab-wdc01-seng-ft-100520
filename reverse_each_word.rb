@@ -1,4 +1,4 @@
-def reverse_each_word(string)
+def reverse_each_word(string) #using .each 
 real_sentence = string.split(" ")
 sentence1_reversed = []
 
@@ -9,7 +9,7 @@ sentence1_reversed.join(" ")
  
 end
 
-def reverse_each_word(string)
+def reverse_each_word(string) #using .collect
   
   
 end 
